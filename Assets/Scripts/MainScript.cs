@@ -10,7 +10,7 @@ using SimpleJSON;
 
 public class MainScript : MonoBehaviour
 {
-
+    // Main Script
     public Text QuestionText, DashesText, ResultsText, AnswerText;
     public Image HangmanImage, FinalImage;
     public Sprite[] HangmanSprites;
